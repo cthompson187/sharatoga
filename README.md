@@ -2,4 +2,4 @@
 
 This is the future home of Sharatoga.com 
 
-In the meantime you can check out our Sharatoga TechTalks at www.sharatogatechtalks.com
+In the meantime you can check out our <a href="www.sharatogatechtalks.com">Sharatoga TechTalks</a> meetup.
